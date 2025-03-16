@@ -6,6 +6,10 @@ I'm a passionate developer who loves working on **C programming, React, and AI/M
 ## 🛠️ Tech Stack
 
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java)
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
