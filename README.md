@@ -16,10 +16,11 @@ I'm a passionate developer who loves working on **C programming, React, and AI/M
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css)
 
-## 📊 GitHub Stats
-
-![Deb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=deb-001&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deb-001&layout=compact&theme=radical)
+## ✨ Fun Facts
+- 🚀 I love exploring new technologies and working on exciting projects.
+- 💡 Passionate about solving real-world problems with code.
+- 🌱 Currently learning **advanced AI/ML concepts**.
+- 🎯 Always looking for opportunities to collaborate on open-source projects.
 
 ## 📫 Connect With Me
 
