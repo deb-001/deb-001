@@ -1,4 +1,4 @@
-# Hi there, I'm Deb! 👋
+# Hi there, I'm Debanjan! 👋
 
 ## 🚀 About Me
 I'm a passionate developer who loves working on **C programming, React, and AI/ML projects**. I enjoy solving real-world problems through code and continuously learning new technologies.
