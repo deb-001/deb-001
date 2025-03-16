@@ -24,8 +24,7 @@ I'm a passionate developer who loves working on **C programming, React, and AI/M
 ## 📫 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)](https://github.com/deb-001)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/deb-001)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/deb_001)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/debanjankauri/)
 
 ---
 ⭐ **Star some repositories if you find them useful!** 🚀
